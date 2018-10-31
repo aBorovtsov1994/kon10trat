@@ -1,6 +1,6 @@
 == Welcome to kon10trat
 
-kon10trat is a web appplication that allows you to configure a rails application to be then generated
+kon10trat is a web appplication that allows you to configure a rails application to then be generated
 and downloaded preconfigured with all the needed plugins etc.
 
 == Getting Started
